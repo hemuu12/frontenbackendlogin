@@ -1,6 +1,3 @@
-
-Sure, here's a template for your documentation based on the provided code snippets:
-
 Authentication API Documentation
 Overview
 This project provides an API for user authentication using Node.js, Express, MongoDB, and JWT (JSON Web Tokens). It includes endpoints for user signup and login, with password hashing and token-based authentication.
